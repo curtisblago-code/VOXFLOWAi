@@ -1,0 +1,19 @@
+# Build artifacts
+/build/
+/**/Build/
+/**/cmake-build-*/
+/**/.vs/
+/**/.vscode/
+/**/x64/
+/**/Debug/
+/**/Release/
+
+# IDE files
+*.user
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
